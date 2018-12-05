@@ -1,8 +1,8 @@
 version: 1.2.1
 files:
   - url: Outline-Manager.exe
-    sha512: QZwBrOtD1J44s/AkhaUxAuo2Z5RIU4l4KWNuE1DKX7lp3WsvriKkcOvqejglAQiLaowbYD12gJ3nHL1MWEqcYg==
-    size: 39831488
+    sha512: gouZ9SQOoWtgflk7XjlVev/tQVlBKjYpmUu4Qp4n5CdKbDyBg1C8ObD9a8jvHRwQR9QSOFp3lqLlG8GhN7s1Cg==
+    size: 39389313
 path: Outline-Manager.exe
-sha512: QZwBrOtD1J44s/AkhaUxAuo2Z5RIU4l4KWNuE1DKX7lp3WsvriKkcOvqejglAQiLaowbYD12gJ3nHL1MWEqcYg==
-releaseDate: '2018-12-04T22:39:48.490Z'
+sha512: gouZ9SQOoWtgflk7XjlVev/tQVlBKjYpmUu4Qp4n5CdKbDyBg1C8ObD9a8jvHRwQR9QSOFp3lqLlG8GhN7s1Cg==
+releaseDate: '2018-12-05T16:30:36.136Z'
