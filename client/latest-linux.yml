@@ -1,9 +1,0 @@
-version: 1.0.5
-files:
-  - url: Outline-Client.AppImage
-    sha512: 3iJI1GfjHINneTOaLQaZHa3ZhcGZwqpcfSCzC+mq/v90oAcDiJOA0wIwqad0tj1kQK7AAFLbb2RkVkHlNbN7vg==
-    size: 63631057
-    blockMapSize: 67605
-path: Outline-Client.AppImage
-sha512: 3iJI1GfjHINneTOaLQaZHa3ZhcGZwqpcfSCzC+mq/v90oAcDiJOA0wIwqad0tj1kQK7AAFLbb2RkVkHlNbN7vg==
-releaseDate: '2019-01-25T16:42:05.997Z'
